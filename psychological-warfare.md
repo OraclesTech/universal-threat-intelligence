@@ -599,3 +599,5 @@ Defend it accordingly.
 ---
 
 *"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things."* - Philippians 4:8
+
+Licensed under CC BY-SA 4.0 | Oracles Technologies LLC

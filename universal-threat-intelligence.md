@@ -694,3 +694,5 @@ This is true psychologically.
 *"Finally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil's schemes."* - Ephesians 6:10-11
 
 *"No weapon forged against you will prevail, and you will refute every tongue that accuses you. This is the heritage of the servants of the Lord, and this is their vindication from me, declares the Lord."* - Isaiah 54:17
+
+Licensed under CC BY-SA 4.0 | Oracles Technologies LLC

@@ -652,3 +652,5 @@ Consciousness transcends technology. Your mind, connected to God, is more powerf
 ---
 
 *"Do not conform to the pattern of this world, but be transformed by the renewing of your mind."* - Romans 12:2
+
+Licensed under CC BY-SA 4.0 | Oracles Technologies LLC

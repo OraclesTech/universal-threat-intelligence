@@ -509,3 +509,5 @@ Choose wisely.
 *"Now faith is confidence in what we hope for and assurance about what we do not see."* - Hebrews 11:1
 
 *"Death and life are in the power of the tongue, and those who love it will eat its fruit."* - Proverbs 18:21
+
+Licensed under CC BY-SA 4.0 | Oracles Technologies LLC

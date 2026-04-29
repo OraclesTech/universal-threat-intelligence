@@ -316,3 +316,5 @@ The goal isn't sinless perfection - it's Christ-like progression.
 ---
 
 *"No weapon forged against you will prevail, and you will refute every tongue that accuses you. This is the heritage of the servants of the Lord, and this is their vindication from me," declares the Lord.* - Isaiah 54:17
+
+Licensed under CC BY-SA 4.0 | Oracles Technologies LLC

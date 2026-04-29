@@ -469,3 +469,5 @@ The victory is yours.
 ---
 
 *"The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you."* - Romans 16:20
+
+Licensed under CC BY-SA 4.0 | Oracles Technologies LLC
