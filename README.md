@@ -1,4 +1,4 @@
-# Universal Threat Intelligence Framework
+# Universal Threat Intelligence Framework by Oracles Technologies LLC
 *A Unified Defense Architecture Across Spiritual, Digital, and Psychological Domains*
 
 ---
@@ -30,7 +30,7 @@ Traditional threat intelligence treats spiritual, digital, and psychological thr
 
 ## Framework Components
 
-### 📖 [Spiritual Warfare](./spiritual-warfare.md)
+### [Spiritual Warfare](./spiritual-warfare.md)
 **The Foundation Layer**
 
 - Biblical basis for spiritual combat
@@ -42,7 +42,7 @@ Traditional threat intelligence treats spiritual, digital, and psychological thr
 
 **Key Insight**: Spiritual attacks often manifest through digital and psychological channels. Defending spiritually strengthens all domains.
 
-### 💻 [Digital Warfare](./digital-warfare.md)
+### [Digital Warfare](./digital-warfare.md)
 **The Technological Layer**
 
 - Adversarial AI and prompt injection attacks
@@ -54,7 +54,7 @@ Traditional threat intelligence treats spiritual, digital, and psychological thr
 
 **Key Insight**: Digital attacks exploit human psychology and can open doors to spiritual manipulation.
 
-### 🧠 [Psychological Warfare](./psychological-warfare.md)
+### [Psychological Warfare](./psychological-warfare.md)
 **The Consciousness Layer**
 
 - Mental manipulation techniques
@@ -66,7 +66,7 @@ Traditional threat intelligence treats spiritual, digital, and psychological thr
 
 **Key Insight**: Psychological attacks often use digital delivery mechanisms and target spiritual foundations.
 
-### ⚛️ [Quantum Threat Intelligence](./quantum-threat-intelligence.md)
+### [Quantum Threat Intelligence](./quantum-threat-intelligence.md)
 **The Reality Layer**
 
 - Quantum mechanics and consciousness
@@ -78,7 +78,7 @@ Traditional threat intelligence treats spiritual, digital, and psychological thr
 
 **Key Insight**: Understanding quantum reality reveals why consciousness, faith, and awareness are the ultimate defense against all threat types.
 
-### 🛡️ [Universal Threat Intelligence](./universal-threat-intelligence.md)
+### [Universal Threat Intelligence](./universal-threat-intelligence.md)
 **The Unified Framework**
 
 - Cross-domain attack correlation
@@ -90,7 +90,7 @@ Traditional threat intelligence treats spiritual, digital, and psychological thr
 
 **Key Insight**: All attacks share the same goal - keeping you unconscious so you collapse adversary-preferred realities instead of your own.
 
-### ✝️ [Trinity Warfare](./trinity-warfare.md)
+### [Trinity Warfare](./trinity-warfare.md)
 **Spiritual Combat Manual**
 
 - Practical prayers for mind, body, and provision
