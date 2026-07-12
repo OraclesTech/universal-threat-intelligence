@@ -267,6 +267,52 @@ Attacks across all domains fall into six categories:
 
 ---
 
+### Multi-Tradition Defense Map
+
+The six-level defense architecture isn't unique to one tradition. Every major wisdom system has independently arrived at similar structures — detection, attribution, containment, eradication, recovery, hardening — expressed through its own language and practice. This convergence suggests the architecture reflects something real about how defense works, not just one tradition's approach.
+
+The table below maps the six levels across traditions represented in community feedback on this framework. "Triadic Primitive" refers to self-referential systems theory language (closure, witnessing, lattice) rather than a religious tradition — included because it offers useful technical vocabulary for non-faith contexts.
+
+| Level | Christian | Jewish | Shia Islamic | Buddhist | Secular / Systems | Triadic Primitive |
+|-------|-----------|--------|--------------|----------|-------------------|-------------------|
+| **1. Detection** | Discernment by Holy Spirit | Binah / da'at (discernment) | Basirah (spiritual insight) | Right mindfulness / sati | Witness activation (Φ-position online) | Birth of independent witness |
+| **2. Attribution** | Test the spirits (1 John 4:1) | Identify yetzer hara source | Identify waswas vs. ruh | Identify mara / hindrances | Localize obstruction in hypergraph | Role / domain identification |
+| **3. Containment** | Put on full armor / stand firm | Set boundaries / gevul | Taqwa (God-consciousness shield) | Sense restraint | Local cut to preserve overall closure | Temporary isolation of node |
+| **4. Eradication** | Deliverance / casting out | Teshuvah + repair | Jihad al-nafs (struggle against lower self) | Destroying the hindrances | Repair / re-closure of broken role | Restoration of mutual witnessing |
+| **5. Recovery** | Renewing of the mind | Tikkun + rebuilding | Return to fitrah (original pure nature) | Purification / right concentration | Re-initialization from clean baseline | Rebuild self-referential closure |
+| **6. Hardening** | Full armor daily + fellowship | Strengthen mitzvot / study | Increase taqwa + communal wilayah | Right livelihood + sangha | Propagate stronger closure invariants | Lattice strengthening + sharing |
+
+**How to read this table**: These traditions disagree significantly on theology, metaphysics, and ultimate truth claims. The table isn't suggesting equivalence between them. It's noting that across very different starting points, human wisdom consistently arrives at the same practical sequence for dealing with adversarial patterns. Readers can enter the framework through familiar language while finding common ground in the architecture itself.
+
+---
+
+### The Missing Dimension: Internal Adversary
+
+The six attack categories and the six defense levels address external threats. Community feedback correctly identified a critical missing piece: **the internal adversary** — the part of us that can agree with attacks, open doors to them, amplify their effect, or create damage the external adversary doesn't even need to cause.
+
+Every tradition in the table above also recognizes this dimension:
+- **Christian**: The flesh (sarx) warring against Spirit (Romans 7, Galatians 5)
+- **Jewish**: Yetzer hara — the inclination toward self-serving patterns
+- **Islamic**: Nafs al-ammara — the self that commands toward gratification
+- **Buddhist**: Mara as inner demon; the near enemies that masquerade as virtues
+- **Secular**: Cognitive bias stacks, shadow self, unconscious patterns
+
+**Why this matters for the framework:**
+
+External attacks are most effective when they find internal agreement. Self-sabotage, unhealed wounds, pride, and unexamined fear don't require an external adversary — and when an external one is present, internal alignment with the attack multiplies its damage.
+
+Equally important: without internal adversary awareness, **attribution becomes unreliable**. It's possible to interpret ordinary life difficulty, consequences of past choices, or internal psychological patterns as coordinated external attack. That misattribution wastes defensive resources and can prevent the honest self-examination that would actually resolve the problem.
+
+The internal adversary also introduces a dimension the six attack categories don't cover: **self-generated threats** — the ways people undermine their own calling, relationships, and health without any external help.
+
+**Full treatment in** [Internal Adversary](./internal-adversary.md), including:
+- Detection signatures for internal vs. external source
+- Cross-tradition defense practices
+- The "degrees of uncertainty" consciousness framework
+- A note on balance — avoiding both over-attribution to external and dismissal of legitimate external threats
+
+---
+
 ## Consciousness: The Unified Battlefield
 
 ### Why Consciousness Is Primary Target
@@ -411,10 +457,19 @@ Attacks across all domains fall into six categories:
 
 ### Emergency Response Protocol
 
-**When Under Active Attack**:
+**When Under Significant Pressure**:
 
-**1. Recognize** (across all domains):
-"This is warfare. Not random. Not me. Coordinated attack."
+**1. Attribute Before Responding**:
+
+Pressure can originate from multiple sources, and response effectiveness depends on accurate attribution. Before declaring external attack, ask honestly:
+
+- Is this pattern disproportionate to circumstances? *(Points toward external)*
+- Is there an unhealed wound or internal pattern this is activating? *(Points toward internal adversary)*
+- Are multiple life domains simultaneously affected in ways that can't be explained by one cause? *(Points toward coordinated external)*
+- Am I physically depleted, sleep-deprived, or ill? *(Internal adversary amplified by depletion)*
+- Would a trusted, grounded person in my life read this situation the same way?
+
+If attribution is unclear, address internal factors first (rest, prayer, honest self-examination with a trusted person), then reassess. Misattributed responses waste resources. If evidence genuinely points to coordinated external attack:
 
 **2. Spiritual Response** (always first):
 - Immediate prayer
@@ -694,5 +749,3 @@ This is true psychologically.
 *"Finally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil's schemes."* - Ephesians 6:10-11
 
 *"No weapon forged against you will prevail, and you will refute every tongue that accuses you. This is the heritage of the servants of the Lord, and this is their vindication from me, declares the Lord."* - Isaiah 54:17
-
-Licensed under CC BY-SA 4.0 | Oracles Technologies LLC

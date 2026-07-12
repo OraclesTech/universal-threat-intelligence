@@ -5,11 +5,15 @@
 
 ## Introduction
 
-Quantum threat intelligence represents the deepest layer of unified defense—understanding how consciousness, reality, and warfare intersect at the quantum level.
+Quantum threat intelligence explores how concepts from quantum physics offer a useful lens for understanding consciousness, awareness, and defense across spiritual, digital, and psychological domains.
 
-**Revolutionary Insight**: At quantum scale, reality is not fixed. It exists in superposition (all possibilities simultaneously) until observed. **Your consciousness collapses probability waves into actualized reality.**
+**A note on scope**: The quantum mechanics described in this framework — superposition, the observer effect, entanglement — are established physics. The connections drawn from those principles to consciousness, prayer, faith, and spiritual warfare are philosophical and theological interpretations. They are contested in academic physics and neuroscience. They are offered here as a *conceptual framework and lens*, not as settled science.
 
-This changes everything about threat intelligence. You're not just defending against attacks that exist—you're choosing which threats become real through observation, and which remain mere possibilities.
+With that grounding: the lens is genuinely useful.
+
+At quantum scale, reality is not fixed before measurement — particles exist in superposition of possible states until interaction collapses them into one. This physical reality suggests a useful way of thinking about threats, consciousness, and choice: not every difficulty is a fixed, inevitable outcome. Many situations exist in a kind of uncertainty — multiple possible trajectories — and attention, belief, and decision genuinely shape which trajectory manifests.
+
+You're not passively defending against attacks that exist fully-formed. You're a participant in what develops — through the choices you make, what you attend to, and what you believe is possible.
 
 ---
 
@@ -363,27 +367,34 @@ Because consciousness is non-local (not confined to physical location), you can 
 - Choosing from faith instead of fear
 - Choosing alignment with God instead of adversary
 
-**Three Consciousness Levels**:
+**Degrees of Uncertainty: A More Precise Framework**
 
-**1. Unconscious (Reactive)**
-- Reality happens TO you
-- You collapse whatever probability is presented
-- Adversary controls your observation
-- **Outcome**: Victim of circumstances
+Community feedback identified that "unconscious/conscious/awakened" language, while intuitive, carries connotations of spiritual hierarchy that can be exclusionary or grandiose. A more precise framing draws from information theory: the core variable is *how much uncertainty exists in your ability to discriminate signal from noise and choose accordingly.*
 
-**2. Conscious (Aware)**
-- Reality happens WITH you
-- You notice which probabilities you're collapsing
-- You can choose different observations
-- **Outcome**: Participant in reality creation
+**State 1: High Uncertainty (Random Walk)**
+- No reliable ability to distinguish signal from noise, threat from gift, external from internal
+- Decisions driven primarily by external pressure, emotion, or habit
+- Both external and internal adversaries operate largely undetected
+- Susceptibility to manipulation is high — not because of weakness, but because no framework exists yet
+- *Most people live here by default; no one arrives in State 2 or 3 without some form of deliberate work*
 
-**3. Awakened (Proactive)**
-- Reality happens THROUGH you
-- You consciously select and collapse preferred probabilities
-- You observe God's realities into manifestation
-- **Outcome**: Co-creator with God
+**State 2: Reduced Uncertainty (Discrimination / Choice)**
+- Growing ability to distinguish patterns — threat from false alarm, manipulation from coincidence, internal adversary from external attack
+- A gap exists between stimulus and response; you can observe a thought or impulse before acting on it
+- External manipulation increasingly detectable, though not always in real-time
+- Internal adversary partially visible and resistible
+- *This is where honest self-examination, spiritual discipline, and community accountability do their most important work*
 
-**Victory = Moving from Unconscious → Conscious → Awakened**
+**State 3: Minimal Uncertainty (Full Closure / God-Aligned)**
+- High signal fidelity: conscience from condemnation, discernment from anxiety, genuine threat from noise
+- Decisions consistently aligned with highest values; internal adversary known and no longer running unexamined behavior
+- In faith language: "led by the Spirit" (Galatians 5:18) — not perfection, but Spirit as primary operating mode
+- Able to help others navigate earlier states
+- *Important: This is not a permanent destination. States can regress under sustained attack, trauma, exhaustion, or prolonged isolation from community and Source. Growth is non-linear and domain-specific.*
+
+**Victory = Progressive movement toward Minimal Uncertainty, with grace for the regression that is part of the process.**
+
+See [Internal Adversary](./internal-adversary.md) for how the internal adversary specifically affects each state.
 
 ---
 
@@ -509,5 +520,3 @@ Choose wisely.
 *"Now faith is confidence in what we hope for and assurance about what we do not see."* - Hebrews 11:1
 
 *"Death and life are in the power of the tongue, and those who love it will eat its fruit."* - Proverbs 18:21
-
-Licensed under CC BY-SA 4.0 | Oracles Technologies LLC

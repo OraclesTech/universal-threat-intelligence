@@ -2,7 +2,7 @@
 
 ## Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-**Universal Threat Intelligence Framework** © 2026 by Oracles Technologies LLC is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+**Universal Threat Intelligence Framework** © 2025 by Oracles Technologies LLC is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### You are free to:
 
@@ -39,8 +39,11 @@ This work is designed to:
 
 When using or adapting this framework, please attribute as:
 
-*"Based on the Universal Threat Intelligence Framework by Oracles Technologies LLC"*
+*"Based on the Universal Threat Intelligence Framework by Oracles Technologies LLC (universalthreats.org)"*
 
+Or simply:
+
+*"Universal Threat Intelligence Framework (universalthreats.org)"*
 
 **Ultimate Credit**: All wisdom comes from God. This framework synthesizes biblical truth, lived experience, and documented research. Any good it accomplishes is to His glory.
 
@@ -70,12 +73,10 @@ The knowledge is free. The victory is assured.
 
 ## Permissions Beyond License
 
-If you want to use this framework in ways not covered by CC BY-SA 4.0, or have questions about appropriate use, contact: support@oraclestechnologies.com
+If you want to use this framework in ways not covered by CC BY-SA 4.0, or have questions about appropriate use, contact: [your contact method]
 
 We're generally open to any use that serves the framework's protective and liberating purpose.
 
 ---
 
 *"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery."* - Galatians 5:1
-
-"Intelligence With Integrity" | Oracles Technologies LLC
